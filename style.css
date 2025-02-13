@@ -113,3 +113,20 @@ input[type=file]{
     background-color: rgb(87, 87, 199);
     border: 2px solid rgb(87, 87, 199) ;
 }
+#current-address{
+    width: 731px;
+    height: 62px;
+}
+
+.form-row textarea:hover{
+    border: 2px solid rgb(84, 84, 167);
+}
+.form-row input:hover{
+    border: 2px solid rgb(84, 84, 167);
+}
+.form-row select:hover{
+    border: 2px solid rgb(84, 84, 167);
+}
+.inp:hover{
+    border: 2px solid rgb(255, 89, 0);
+}
